@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kanbanfire-be3d5": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-be3d5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kanbanfire-be3d5"
+  }
+}
